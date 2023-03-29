@@ -14,4 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- Software Engineer Student 4th Semester
+- 20yo M
+- Native Spanish speaker | English Speaker Intermediate Level (english certificates: PET Cambridge, British Council Core Skill Test C1 527 points)
+- I'm currently learning PHP Laravel Livewire Framework, Node.js and advanced MYSQL
+- Im looking for help to understand and improve the tecnologies I'm learning and increase my english level.
+- Right now im learning the basics of all software engineer roles, but I'm enjoying the backend developer more than others.
+- HTML | basic/intermediate Javascript | basic CSS | basic PHP | basic Laravel | basic Livewire | basic C++ | basic/intermediate MYSQL
 [![@sczsca's Holopin board](https://holopin.me/sczsca)](https://holopin.io/@sczsca)
