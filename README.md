@@ -14,10 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- Software Engineer Student 6th Semester
+- Software Engineer Student 7th Semester
 - 21yo M
 - Native Spanish speaker | English Speaker Intermediate Level (english certificates: PET Cambridge, British Council Core Skill Test C1 527 points)
-- I'm currently learning Backend Development, Node.js and advanced MYSQL
+- I'm currently learning Backend Development, Node.js, python, java and advanced MYSQL
 - Im looking for help to understand and improve the tecnologies I'm learning and increase my english level.
 - Right now im learning the basics of all software engineer roles, but I'm enjoying the backend developer more than others.
 - HTML | basic/intermediate Javascript | basic CSS | basic PHP | basic Laravel | basic Livewire | basic C++ | basic/intermediate MYSQL
